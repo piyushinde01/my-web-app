@@ -9,15 +9,15 @@
   
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/SiddharthTondwalkar/my-web-app.git"
+    "url": "git+https://github.com/piyushinde01/my-web-app.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/SiddharthTondwalkar/my-web-app/issues"
+    "url": "https://github.com/piyushinde01/my-web-app/issues"
   },
-  "homepage": "https://github.com/SiddharthTondwalkar/my-web-app#readme",
+  "homepage": "https://github.com/piyushinde01/my-web-app#readme",
   "description": "",
   "dependencies": {
     "express": "^4.21.2"
